@@ -1,0 +1,12 @@
+{
+  "name": "random-lucky-number",
+  "version": "1.0.1",
+  "description": "Generate Random Number - It could be your lucky number too!!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
